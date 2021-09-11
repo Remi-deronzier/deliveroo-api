@@ -1,6 +1,6 @@
 # Deliveroo API
 
-Deliveroo API is the API to make my [Deliveroo web app](https://thirsty-lamarr-1b3108.netlify.app/) work. This API allows only users to get all the menus of the restaurant *Le Pain Quotidien*.
+Deliveroo API is the API to make my [Deliveroo web app](https://thirsty-lamarr-1b3108.netlify.app/) work. This API simply allows users to get all the menus of the restaurant *Le Pain Quotidien*.
 
 Note that data is stored as a simple `json` file which is returned to the frontend.
 
