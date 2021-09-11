@@ -19,7 +19,7 @@ Before you begin, ensure you have met the following requirements:
 Clone this repository:
 ```
 git clone https://github.com/Remi-deronzier/deliveroo-api.git
-cd airbnb-api
+cd deliveroo-api
 ```
 
 Install packages:
